@@ -39,9 +39,13 @@ Project Title	Description	Key Tools
 These projects also explore how DevOps tools integrate with:
 
 Application Development (e.g., Python Flask, Node.js apps)
+
 Databases (PostgreSQL, MySQL via RDS)
+
 Collaboration Tools (Slack, GitHub, Jira for DevOps automation)
+
 Monitoring & Notification Services (Alertmanager, CloudWatch Alarms, Slack bots)
+
 
 ## 📦 Project Scope
 The full portfolio covers the DevOps lifecycle, including:
